@@ -1208,6 +1208,88 @@ BH Drywall Metro Detroit patches, re-textures and removes popcorn ceilings in ho
 To have a damaged popcorn ceiling looked at, call us at (313) 236-4558 or send the [contact form](/quote/) with a photo of the damage and the year your home was built. We are open Sunday through Thursday from 9:00 AM to 5:00 PM and Friday from 9:00 AM to 12:00 PM, and closed on Saturdays.
 `,
   },
+  {
+    slug: "drywall-in-cold-weather-michigan",
+    title: "Can You Drywall in Cold Weather? Hanging and Finishing in a Michigan Winter",
+    metaTitle: "Can You Drywall in Cold Weather? Michigan Guide",
+    excerpt:
+      "Drywall can go up in a Michigan winter, but joint compound cannot cure in a cold room. Here is what temperature the space needs, what goes wrong in an unheated garage or addition, and what to do with mud that froze.",
+    category: "Residential",
+    readMinutes: 6,
+    // Local noon on purpose, same as the other posts: a bare date prints a day early.
+    date: "2026-10-19T12:00:00-04:00",
+    heroImage: "/blog/new-construction-drywall-phases-hero.png",
+    heroAlt: "New construction home with drywall hung awaiting tape in Metro Detroit",
+    secondaryImage: "/blog/new-construction-drywall-phases-secondary.png",
+    secondaryAlt: "Finished taped and sanded drywall in a new Michigan home build",
+    body: `
+Yes, you can drywall in cold weather, but only the hanging can be done cold. Taping and finishing need a heated room. The drywall manufacturers ask for the space to be held at 50°F or warmer for about 48 hours before joint compound goes on, and kept there until the last coat is dry. In a colder room the compound dries slowly or not at all, the tape can lose its bond, and the joints are more likely to crack later.
+
+The question comes up every year once the first frost reaches Metro Detroit. This year that was the weekend of October 16 to 18, when the National Weather Service in Detroit put Wayne, Oakland and Macomb counties under frost advisories two nights in a row. Garages, additions, cottages and new builds that were going to be finished "before winter" are now being finished in it.
+
+## Hanging the board in the cold
+
+Drywall sheets can be hung in an unheated space. The board does not mind cold, and screws hold the same at 35°F as at 70°F. A few things still matter:
+
+- **Bring the board inside first.** Board stored in a freezing garage or on a trailer should sit in the room it is going into before it is hung, so it is not cold and damp when the heat comes on.
+- **Keep it dry.** Snow tracked in, a leaking roof on an unfinished addition, or condensation on cold sheets will soften the paper face.
+- **Insulate and close up before you hang.** On an exterior wall or a garage ceiling, the insulation and any vapor control go in first. Once the board is up, that wall is closed.
+
+## Taping and finishing need heat
+
+Joint compound is mostly water. It has to dry, and in the case of setting-type compound, it has to set, before the next coat. In a cold room:
+
+- **Drying takes days instead of hours,** so coats get stacked on wet coats and shrink later.
+- **Tape can bubble or lift** when the compound under it stays wet too long.
+- **Compound that freezes on the wall** before it dries loses its strength and has to be scraped off and redone.
+- **Temperature swings crack joints.** A room that is heated during the day and left to go cold at night moves the framing and the board, and the new joints are the weak spot.
+
+The fix is temporary heat, set up before the first coat and left running until the last coat is dry and sanded.
+
+## Temporary heat without new problems
+
+- **Do not blow heat straight at the wall.** Compound that dries too fast on the surface cracks.
+- **Do not overheat the room.** Warm and steady is the goal, not hot.
+- **Watch the moisture from fuel-burning heaters.** Propane and kerosene heaters put a lot of water vapor into the air. Without some ventilation, that moisture slows drying and can condense on the cold side of exterior walls. An electric heater or the home's own furnace, once it is connected, is the cleaner choice.
+- **Keep the heat on after the last coat.** Primer and paint go on a dry, warm wall, not one that was heated for an hour that morning.
+
+## What to do if your joint compound froze
+
+Premixed compound left in a garage or a truck overnight can freeze. Let the bucket thaw slowly at room temperature and do not heat it. Once it has thawed, stir it. If it mixes back to a smooth, even paste, it can usually still be used. If it stays lumpy, grainy or watery, throw it out. Powdered setting compound is not harmed by cold while it is dry, but it still has to be mixed with warm water and applied in a warm room.
+
+## Unheated garages and seasonal spaces
+
+A garage, a three-season room or a cottage that is not heated all winter can be drywalled, but plan for it:
+
+- **Finish it while it is heated.** Even if the space will sit cold later, the taping and finishing need the 48 hours of steady heat.
+- **Expect more seam movement.** A space that goes from below freezing to warm and back moves more than a house does, so a hairline at a joint is more likely over time.
+- **Think about moisture.** A garage with cars bringing in snow and road salt is a damp space in winter. Moisture-resistant board is worth considering on the lower walls.
+- **Ask your city about an attached garage.** The wall and ceiling between an attached garage and the house usually have their own drywall requirements. Your city's building department can tell you what applies before you hang anything.
+
+Hairline cracks that show up in a heated house once the furnace runs are a different problem, covered in our article on [why ceilings crack along drywall seams in heating season](/blog/ceiling-cracks-drywall-seams-heating-season/).
+
+## New construction and additions in winter
+
+Builders across Metro Detroit, from Macomb Township and Shelby Township to Novi and Canton, keep drywall moving through the winter by getting the building closed in and the heat running before the finishers arrive. Windows and doors in, the roof dry, the furnace connected or temporary heat in place: that is the point where finishing can start. Our page on [new construction drywall](/services/new-construction-drywall/) covers how we sequence hanging, taping and finishing on new homes and additions, and our [residential drywall](/services/residential-drywall/) page covers smaller projects in occupied homes.
+
+## What drives the cost
+
+We do not price winter drywall work from a photo, because a few things change the job a lot:
+
+- **The size of the space** and how many ceilings are involved.
+- **Whether the space is heated,** or temporary heat has to be set up and kept running.
+- **The finish level** you want before paint.
+- **Access,** such as a detached garage, a second floor addition or an unfinished site.
+
+Call (313) 236-4558 for a price on your job.
+
+## Winter drywall in Metro Detroit
+
+BH Drywall Metro Detroit hangs and finishes drywall through the winter in homes, garages and additions across Wayne, Oakland and Macomb counties, from Detroit and Dearborn to Livonia, Royal Oak, Troy and Warren.
+
+To talk about a winter drywall project, call us at (313) 236-4558 or send the [contact form](/quote/) with a few photos of the space and whether it is heated. We are open Sunday through Thursday from 9:00 AM to 5:00 PM and Friday from 9:00 AM to 12:00 PM, and closed on Saturdays.
+`,
+  },
 ];
 
 export function findPost(slug: string): BlogPost | undefined {
