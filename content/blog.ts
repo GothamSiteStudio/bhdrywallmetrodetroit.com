@@ -1290,6 +1290,92 @@ BH Drywall Metro Detroit hangs and finishes drywall through the winter in homes,
 To talk about a winter drywall project, call us at (313) 236-4558 or send the [contact form](/quote/) with a few photos of the space and whether it is heated. We are open Sunday through Thursday from 9:00 AM to 5:00 PM and Friday from 9:00 AM to 12:00 PM, and closed on Saturdays.
 `,
   },
+  {
+    slug: "drywall-holes-detroit-rental-inspection",
+    title: "Will Holes in Drywall Fail a Detroit Rental Inspection? What the 15-Point Checklist Says About Walls and Ceilings",
+    metaTitle: "Will Drywall Holes Fail a Detroit Rental Inspection?",
+    excerpt:
+      "Detroit's 15-point rental inspection checks walls, floors and ceilings. Here is which drywall and plaster damage can hold up a Certificate of Compliance, what usually does not, and how to get walls ready before the inspector comes.",
+    category: "Residential",
+    readMinutes: 6,
+    // Local noon on purpose, same as the other posts: a bare date prints a day early.
+    date: "2026-10-22T12:00:00-04:00",
+    heroImage: "/blog/drywall-hole-repair-vs-large-patch-hero.png",
+    heroAlt: "Patched and repainted drywall in a Detroit rental hallway before inspection",
+    secondaryImage: "/blog/drywall-hole-repair-vs-large-patch-secondary.png",
+    secondaryAlt: "Drywall patch with backing board going into a damaged wall in a Metro Detroit rental",
+    body: `
+A small nail hole or a scuff will not fail a Detroit rental inspection. Real holes can. The city's checklist says walls and floors must be "free of major structural defects", and its own examples are holes, rotten materials, leaning or collapsing. A fist-size hole, a doorknob punched through the wall, a section of crumbling plaster or a ceiling that sags can all be written up. So can ceilings and walls with mold growth, and peeling paint.
+
+The question is coming up now because the City of Detroit is pushing hard on rental compliance. On August 25, 2026 the city announced a plan to raise the share of rentals with a Certificate of Compliance from about 14% to 25% within a year, with a target of bringing about 9,000 one- and two-family rentals up to code by September 2027. Landlords who have not held a certificate in the past three years are being contacted and given 90 days to bring their properties up to code, and the city has opened an online tenant complaint page. The city's Landlord Academy and Resource Fair is set for November 17, 2026.
+
+## What the 15-point checklist says about walls and ceilings
+
+Detroit replaced its older, longer inspection list with a 15-point checklist. Four of the 15 points touch the walls and ceilings a drywall crew works on:
+
+- **Point 1: walls and floors free of major structural defects,** such as holes, rotten materials, leaning or collapsing.
+- **Point 3: no rain or snow getting in** through the roof, exterior walls, gutters or downspouts. An active leak usually shows up inside first, as a stain or soft spot on a ceiling.
+- **Point 14: floors, walls and ceilings in sanitary condition,** with no evidence of a fungus-like substance (mold) or sewage.
+- **Point 15: no deteriorated paint** or bare soil.
+
+The full checklist and the steps to register a rental are on the city's rental page at detroitmi.gov/rental. Your inspector makes the call on your property, so treat this article as a guide to what to fix first, not as a ruling.
+
+## Damage that is likely to be written up
+
+- **Holes you can put a hand through,** from doorknobs, furniture, a move-out or a past repair that was never closed.
+- **Crumbling or loose plaster,** common in older Detroit homes, where the plaster has let go of the lath and bulges or falls.
+- **A sagging ceiling,** often drywall that took on water and pulled away from its fasteners.
+- **Water-stained or soft drywall with mold on it,** especially in bathrooms, under windows and on basement walls.
+- **Wide areas of peeling or flaking paint,** whatever is under it.
+
+## Damage that usually is not a problem
+
+- **Nail and anchor holes** from pictures and shelves.
+- **Hairline cracks** at seams or corners with no movement or sag.
+- **Scuffs, dings and small dents** that do not open the wall.
+
+They are still worth fixing before a new tenant moves in, because walls that look cared for help the whole unit read as well kept.
+
+## Fix the cause before the wall
+
+A patch over an active problem fails twice: once at inspection, when the leak or mold comes back through, and again with the tenant. Before any drywall goes up:
+
+- **Stop the water.** A roof, gutter or plumbing leak (points 3 and 9 on the checklist) has to be repaired first, then the wet drywall comes out and the framing dries.
+- **Remove moldy drywall, do not paint over it.** Point 14 is about what is there, and paint does not change that. Cut out the affected board, let the cavity dry and replace it. Our [water damage drywall repair](/services/water-damage-drywall-repair/) page covers how that work is done.
+- **Check the paint before anyone sands.** In a home built before 1978, peeling paint may contain lead. The city's own guidance for a property that fails on deteriorated paint points owners to a lead-safe certified professional for the paint work. Sort that out before walls are sanded or cut.
+
+## How the repairs are usually done
+
+- **Small and medium holes** are cut square and closed with a patch and backing, then taped, finished and primed. Our article on [drywall hole repair vs a large patch](/blog/drywall-hole-repair-vs-large-patch/) explains where a patch stops working and a section has to be replaced.
+- **Failed plaster** is either secured and patched or cut back and replaced with drywall, depending on how much has let go.
+- **Sagging or water-damaged ceilings** are cut out to sound framing and replaced with new board.
+- **Texture is matched** so a repaired wall or ceiling does not stand out as a patch.
+
+For holes, cracks and damaged sections in occupied homes and rentals, see our page on [drywall repair](/services/drywall-repair/).
+
+## Timing before the inspection
+
+Allow time for the work to dry. Joint compound and primer need a warm room to cure, and an empty rental with the heat turned down in November dries slowly. Turn the heat on in a vacant unit a couple of days before the repair, and keep it on until the paint is done. The heating system has to be working for the inspection anyway: point 5 asks that it can hold at least 68°F.
+
+## What drives the cost
+
+We do not price rental repairs from a description, because a few things change the job a lot:
+
+- **How many rooms and openings** need work, and whether ceilings are involved.
+- **The wall type,** drywall or old plaster on lath.
+- **Whether water or mold is involved,** which adds removal and drying time.
+- **Texture and finish** that have to match the rest of the unit.
+- **Access,** such as an occupied unit or a multi-unit building.
+
+Call (313) 236-4558 for a price on your job.
+
+## Rental drywall repair in Detroit and Metro Detroit
+
+BH Drywall Metro Detroit repairs drywall and plaster in rentals and owner-occupied homes across Wayne, Oakland and Macomb counties, from Detroit, Dearborn and Hamtramck to Livonia, Southfield, Royal Oak, Troy and Warren.
+
+If an inspection is coming up or you received a list of repairs, call us at (313) 236-4558 or send the [contact form](/quote/) with photos of the damage and the year the building was built. We are open Sunday through Thursday from 9:00 AM to 5:00 PM and Friday from 9:00 AM to 12:00 PM, and closed on Saturdays.
+`,
+  },
 ];
 
 export function findPost(slug: string): BlogPost | undefined {
