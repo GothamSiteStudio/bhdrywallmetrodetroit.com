@@ -1376,6 +1376,79 @@ BH Drywall Metro Detroit repairs drywall and plaster in rentals and owner-occupi
 If an inspection is coming up or you received a list of repairs, call us at (313) 236-4558 or send the [contact form](/quote/) with photos of the damage and the year the building was built. We are open Sunday through Thursday from 9:00 AM to 5:00 PM and Friday from 9:00 AM to 12:00 PM, and closed on Saturdays.
 `,
   },
+  {
+    slug: "is-drywall-dust-dangerous-older-detroit-homes",
+    title: "Is Drywall Dust Dangerous? What Changes in an Older Detroit Home",
+    metaTitle: "Is Drywall Dust Dangerous? Older Detroit Homes",
+    excerpt:
+      "Plain drywall dust is mostly an irritant, but sanding joint compound can put silica in the air, and in a Detroit home built before 1978 the paint and old compound on the wall can add lead or asbestos. Here is what to check before anyone sands or cuts.",
+    category: "Safety",
+    readMinutes: 6,
+    // Local noon on purpose, same as the other posts: a bare date prints a day early.
+    date: "2026-10-26T12:00:00-04:00",
+    heroImage: "/blog/level-5-smooth-walls-michigan-homes-hero.png",
+    heroAlt: "Clean living room with smooth finished walls after a drywall job in a Metro Detroit home",
+    secondaryImage: "/blog/level-5-smooth-walls-michigan-homes-secondary.png",
+    secondaryAlt: "Drywall finisher applying joint compound to new board in a Metro Detroit house",
+    body: `
+For most people, short exposure to dust from new drywall and modern joint compound is an irritant, not a poison. It makes your eyes sting, your throat scratchy and your nose run, and it settles on everything in the house. The real risks come from two other places: sanding joint compound for hours in a closed room, which can put fine silica dust in the air, and sanding or cutting walls in an older home, where the paint or the old compound on the wall can contain lead or asbestos. In Detroit, where most homes were built before 1978, that second risk is the one to check first.
+
+The question comes up every fall. Windows close, the furnace comes on, and indoor projects start: a basement, a patched wall, a ceiling repair before the holidays. This week is also Lead Poisoning Prevention Week in Michigan. Governor Whitmer's proclamation of October 25, 2026 names lead dust and paint in homes among the hazards the state is working on, and reports that 4,933 of the 151,569 Michigan children under 6 tested between October 2024 and September 2025 had elevated blood lead levels.
+
+## What is in drywall dust
+
+- **Gypsum,** the core of the board. It is a mild irritant to the eyes, nose, throat and skin.
+- **Joint compound,** the mud used on seams and patches. Depending on the product, it can contain limestone, mica, talc and, in some products, crystalline silica. NIOSH measured dust from sanding joint compound and found that some samples exceeded workplace limits and some contained respirable silica, which is linked to lung disease with long, repeated exposure.
+- **Whatever is on the wall.** Paint, old texture and old compound come off with the sanding dust. In a new house that is just paint. In an older house it can be lead paint, or compound and texture made before asbestos was taken out of them.
+
+## When drywall dust is a bigger problem
+
+- **Long sanding sessions in a closed room,** with no dust control and no mask. This is the scenario the NIOSH work was about.
+- **People with asthma or other lung conditions,** who can react to levels other people barely notice.
+- **Young children, pregnant women and pets** in the house while walls are being sanded or cut, especially in a pre-1978 home where lead may be in the dust.
+- **Heating season.** A forced-air furnace pulls dust into the return vents and spreads it to every room. Shut the system off or seal the returns in the work area while sanding.
+
+## The Detroit factor: lead paint and old compound
+
+Most of Detroit's housing, and a large share of the older neighborhoods in Dearborn, Hamtramck, Royal Oak, Ferndale and Highland Park, was built before 1978, the year lead paint was banned for homes. Many of these homes also have older plaster, patch compound and ceiling texture.
+
+- **Lead.** Sanding, scraping or cutting through lead paint turns it into fine dust that settles on floors and window sills, where small children pick it up on their hands. Federal rules require contractors who disturb more than six square feet of painted surface inside a pre-1978 home to follow lead-safe work practices. If you are not sure, test the paint before anyone sands it. Lead test kits are sold at hardware stores, and a lead inspector can test it properly.
+- **Asbestos.** Asbestos was banned from patching compounds in 1977, and older joint compound and textured or popcorn ceilings from before about 1980 can contain it. It looks no different from modern material. The only way to know is to have a sample tested by a lab before the material is sanded, scraped or torn out. This matters most for [popcorn ceiling removal](/services/popcorn-ceiling-removal/) in older homes, because scraping a ceiling puts a lot of material in the air at once.
+
+If a test comes back positive, stop and use a contractor qualified for that material. Do not dry sand or scrape it yourself.
+
+## How to keep drywall dust down
+
+- **Close off the room.** Plastic sheeting over doorways, and tape over vents and returns in the work area.
+- **Turn off the furnace or seal the returns** while sanding, so the dust does not travel through the ductwork.
+- **Sand less.** Careful taping and thin coats leave less to sand. Wet sanding with a damp sponge makes far less airborne dust than sandpaper.
+- **Use a sander connected to a HEPA vacuum** instead of sanding by hand into the open air.
+- **Wear a real respirator,** an N95 or better, not a paper dust mask, plus eye protection.
+- **Clean up with a HEPA vacuum and damp cloths.** Sweeping and a regular shop vacuum put the finest dust back into the air.
+- **Keep kids and pets out** until the room is cleaned.
+
+## When to call a pro
+
+A small nail-hole patch with a damp sponge in a newer home is a reasonable DIY job. Bigger work in an older home is where it pays to have a crew that controls dust as part of the job: sanding whole rooms, cutting out water-damaged or failed sections, removing a textured ceiling, or any work in a home with small children. Whoever you hire, ask how they will close off the room, control dust while sanding and clean up at the end. For holes, cracks and damaged sections in lived-in homes, see our page on [drywall repair](/services/drywall-repair/).
+
+## What drives the cost
+
+We do not price dust-controlled work from a description, because a few things change the job a lot:
+
+- **How much wall or ceiling** is being sanded, cut or replaced.
+- **The age of the home,** and whether paint, compound or texture has to be tested first.
+- **Whether the home is occupied,** which means more containment and daily clean-up.
+- **Texture and finish** that have to match the rest of the room.
+
+Call (313) 236-4558 for a price on your job.
+
+## Drywall work with dust control in Metro Detroit
+
+BH Drywall Metro Detroit repairs and finishes drywall and plaster across Wayne, Oakland and Macomb counties, from Detroit, Dearborn and Hamtramck to Livonia, Southfield, Royal Oak, Troy and Warren.
+
+If you are planning a repair in an older home, call us at (313) 236-4558 or send the [contact form](/quote/) with photos of the wall or ceiling and the year the house was built. We are open Sunday through Thursday from 9:00 AM to 5:00 PM and Friday from 9:00 AM to 12:00 PM, and closed on Saturdays.
+`,
+  },
 ];
 
 export function findPost(slug: string): BlogPost | undefined {
