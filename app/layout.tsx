@@ -105,6 +105,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
         {/* Matomo */}
         <script dangerouslySetInnerHTML={{ __html: MATOMO_SNIPPET }} />
+        {/* Lead events: Contact / phone_click, sms_click, whatsapp_click, email_click, form_submit.
+            defer so this runs after the snippet above has queued setSiteId. */}
+        <script src="/matomo-events.js" defer />
         <noscript>
           <p>
             <img
