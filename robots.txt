@@ -2,6 +2,7 @@ User-Agent: *
 Allow: /
 Disallow: /api/
 Disallow: /thank-you
+Disallow: /estimates/
 
 Host: https://bhdrywallmetrodetroit.com
 Sitemap: https://bhdrywallmetrodetroit.com/sitemap.xml
