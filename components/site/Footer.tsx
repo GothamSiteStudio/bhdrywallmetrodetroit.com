@@ -91,7 +91,11 @@ export function Footer() {
         </div>
       </div>
       <div className="mx-auto mt-8 max-w-7xl px-4 text-center text-xs text-ink-300 md:mt-10 md:px-6 md:text-left">
-        © {new Date().getFullYear()} {BIZ.name}. All rights reserved. Serving all of Metro Detroit, Michigan. · Built, designed & promoted by{" "}
+        © {new Date().getFullYear()} {BIZ.name}. All rights reserved. Serving all of Metro Detroit, Michigan. ·{" "}
+        <Link href="/privacy-policy" prefetch={false} className="underline underline-offset-2 hover:text-brass-300">
+          Privacy Policy
+        </Link>{" "}
+        · Built, designed & promoted by{" "}
         <a
           href="https://www.gothamsitestudio.com/"
           target="_blank"

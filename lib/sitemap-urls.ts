@@ -131,6 +131,7 @@ export function buildSitemap(): MetadataRoute.Sitemap {
     { path: "/blog", source: ["app/blog/page.tsx", "content/blog.ts"], priority: 0.75, changeFrequency: "weekly" },
     { path: "/hours", source: "app/hours/page.tsx", priority: 0.7, changeFrequency: "monthly" },
     { path: "/license", source: "app/license/page.tsx", priority: 0.65, changeFrequency: "yearly" },
+    { path: "/privacy-policy", source: "app/privacy-policy/page.tsx", priority: 0.3, changeFrequency: "yearly" },
   ];
 
   return [
